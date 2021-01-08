@@ -1,0 +1,6 @@
+internal/*
+firmware.bin
+xow
+*.d
+*.o
+.vscode/*
